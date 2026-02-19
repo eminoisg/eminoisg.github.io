@@ -1,0 +1,30 @@
+<ul class="pub-list">
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
+
+{% for pub in pubs %}
+<li class="pub-item">
+
+<strong>{{ pub.title }}</strong><br>
+
+{{ pub.authors }} ({{ pub.year }}).  
+<em>{{ pub.journal }}{{ pub.conference }}</em>
+
+{% if pub.doi %}
+  • <a href="https://doi.org/{{ pub.doi }}">DOI</a>
+{% endif %}
+
+{% if pub.arxiv %}
+  • <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
+{% endif %}
+
+{% if pub.pdf %}
+  • <a href="{{ pub.pdf }}">PDF</a>
+{% endif %}
+
+{% if pub.code %}
+  • <a href="{{ pub.code }}">Code</a>
+{% endif %}
+
+</li>
+{% endfor %}
+</ul>
