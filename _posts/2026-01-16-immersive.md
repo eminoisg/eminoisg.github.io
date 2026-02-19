@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Page - Article Header Overlay Background Fill (Immersive + Translucent Header)
 mode: immersive
 article_header:
