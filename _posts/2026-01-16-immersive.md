@@ -4,7 +4,7 @@ title: Page - Article Header Overlay Background Fill (Immersive + Translucent He
 mode: immersive
 article_header:
   type: cover
-  background_image:
+  image:
     src: Download-minimalist-backgrounds.png
 ---
 
