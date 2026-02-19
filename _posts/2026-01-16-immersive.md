@@ -2,6 +2,8 @@
 layout: article
 title: Page - Article Header Overlay Background Fill (Immersive + Translucent Header)
 mode: immersive
+header:
+  theme: dark
 article_header:
   type: cover
   image:
