@@ -3,7 +3,7 @@ layout: article
 title: Page - Article Header Overlay Background Fill (Immersive + Translucent Header)
 mode: immersive
 article_header:
-  type: overlay
+  type: cover
   background_image:
     src: Download-minimalist-backgrounds.png
 ---
