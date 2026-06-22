@@ -10,11 +10,11 @@ mathjax: true
 
 ## Le perceptron
 
-Le perceptron est l’un des premiers modèles de neurone artificiel. Il a été introduit par Frank Rosenblatt en 1957 au laboratoire de recherches de la marine américaine. Ce modèle simple a permis de formaliser l’idée selon laquelle une machine peut apprendre à classer des données en combinant des entrées pondérées et une fonction de décision.
+Le perceptron est l’un des premiers modèles de neurone artificiel. Ce modèle simple a permis de formaliser l’idée selon laquelle une machine peut apprendre à classer des données en combinant des entrées pondérées et une fonction de décision. <!--more-->
 
 ### Origine
 
-Le perceptron est né à l’ère des premières recherches en intelligence artificielle, lorsque l’on cherchait un modèle mathématique pour simuler le fonctionnement des neurones biologiques. Rosenblatt s’appuyait sur les travaux antérieurs de Warren McCulloch et Walter Pitts, qui avaient déjà proposé des neurones formels logiques. Le perceptron a popularisé l’apprentissage supervisé par ajustement itératif des poids.
+Le perceptron est né à l’ère des premières recherches en intelligence artificielle, lorsque l’on cherchait un modèle mathématique pour simuler le fonctionnement des neurones biologiques. Il a été introduit par Frank Rosenblatt en 1957 au laboratoire de recherches de la marine américaine. Rosenblatt s’appuyait sur les travaux antérieurs de Warren McCulloch et Walter Pitts, qui avaient déjà proposé des neurones formels logiques. Le perceptron a popularisé l’apprentissage supervisé par ajustement itératif des poids.
 
 ### Formule mathématique
 

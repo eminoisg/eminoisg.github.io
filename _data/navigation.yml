@@ -79,8 +79,6 @@ header:
 
 histoire:
   - title: Les boîtes intelligentes
-    url: /_posts/2026-06-22-neural-networks.md
-      ...
+    url: /2026/06/22/neural-networks.html
   - title: Les prémices de l'intelligence
-    url: /_posts/2026-06-22-perceptron.md
-      ...
+    url: /2026/06/22/perceptron.html
