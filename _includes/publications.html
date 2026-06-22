@@ -17,6 +17,10 @@
   • <a href="https://arxiv.org/abs/{{ pub.arxiv }}">arXiv</a>
 {% endif %}
 
+{% if pub.medrxiv %}
+  • <a href="https://medrxiv.org/content/{{ pub.medrXiv }}">medrXiv</a>
+{% endif %}
+
 {% if pub.pdf %}
   • <a href="{{ pub.pdf }}">PDF</a>
 {% endif %}
