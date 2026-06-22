@@ -76,3 +76,11 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+histoire:
+  - title: Les boîtes intelligentes
+    url: /_posts/2026-06-22-neural-networks.md
+      ...
+  - title: Les prémices de l'intelligence
+    url: /_posts/2026-06-22-perceptron.md
+      ...
